@@ -2,3 +2,6 @@ streamlit
 pandas
 fpdf2
 streamlit-autorefresh
+streamlit
+pandas
+fpdf2
